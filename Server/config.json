@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "token":"ODYxMjc4Nzc1NDU0MzM0OTk3.YOHeXQ.CvTNWKBtSuQ4Fqetd56Jd5NZnfo",
+        "prefix":"."
+    },
+    
+    "err": {
+        "log":"863795703896735744"
+    },
+
+    "developerSettings":{
+        "developer":"851882528101236826"
+    },
+    "register":{
+        "staff":"864182785710227457",
+        "kız":"864182791846363136",
+        "erkek":"864182792543272990",
+        "unreg":"864182799816458302"
+    }
+    
+}
