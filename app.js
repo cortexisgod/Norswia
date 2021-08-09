@@ -110,9 +110,9 @@ client.on('message', async(message) => {
     }
 });
 
-client.login("ODY3NzQwNTQ4NjE3NzMyMTY4.YPlgXA.x0IPzhvLCLeL1dVBwqrvG85A0PY")
+client.login("TOKEn")
 /**
- * ? token: ODY3NzQwNTQ4NjE3NzMyMTY4.YPlgXA.x0IPzhvLCLeL1dVBwqrvG85A0PY
+ * ? token: 
  * Profiles => 
  * Functions: Register 
  * Bot's
